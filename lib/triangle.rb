@@ -27,3 +27,5 @@ class Triangle
   end
 
 end
+
+puts "h"
